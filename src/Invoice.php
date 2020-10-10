@@ -20,7 +20,7 @@ use LaravelDaily\Invoices\Traits\SerialNumberFormatter;
 /**
  * Class Invoices
  * @package LaravelDaily\Invoices
- * Forked by tilimani
+ * Forked by tilimani and branch: added credits
  */
 class Invoice
 {
